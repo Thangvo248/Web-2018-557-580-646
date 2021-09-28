@@ -102,13 +102,15 @@ html{
 }
 #slider .member-img{
     position: absolute;
+    width: 480px;
+    border-radius: 8px;
     left: 5%;
-    top: 5%;
+    top: 10%;
 }
 #slider .member-info p,
 #slider .member-info h1,
 #slider .member-info a{
-    font-size: 48px;
+    font-size: 32px;
     margin-top: 28px;
 }
 #slider .member-info a{
